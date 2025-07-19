@@ -1,4 +1,4 @@
-Flutter NavigationRail Demo
+#Flutter NavigationRail Demo
 A simple Flutter app demonstrating the NavigationRail widget in a real-world Admin Dashboard scenario.
 
 How to Run
